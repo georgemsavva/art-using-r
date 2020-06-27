@@ -1,4 +1,6 @@
 
+library(gifski)
+
 res=1000 # resolution
 a=seq(0,0.2,l=200) # 200 = number of frames
 pl=length(a)
